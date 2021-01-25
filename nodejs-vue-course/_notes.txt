@@ -1,0 +1,14 @@
+# Install VueJS globally
+npm install -g @vue/cli
+vue --version
+
+# Create new VueJS project and run the server.
+vue create test | vue ui
+cd test
+npm run serve
+npm install vue-router
+npm install uuid
+npm install axios
+
+# Deployment to Netlify
+https://www.netlify.com/
