@@ -1,0 +1,41 @@
+# NPM Packages
+
+npm start # production mode
+
+npm isntall express dotenv
+npm install morgan 
+npm install mongoose
+npm install colors
+npm install slugify
+npm install node-geocoder
+npm install express-fileupload
+
+# User Authentication
+
+npm install jsonwebtoken
+npm install bcryptjs
+npm install cookie-parser
+npm install nodemailer
+
+npm run dev # development mode
+
+npm install -D nodemon
+
+# Sample API structure
+/api/v1/bootcamps
+/api/v1/courses
+/api/v1/reviews
+/api/v1/auth
+/api/v1/users
+
+# MongoDB noSQL Database
+https://www.mongodb.com/
+
+# MongooseJS
+https://mongoosejs.com/
+
+#MapQuest Developer
+http://developer.mapquest.com/
+
+#Mailtrap
+https://mailtrap.io/
