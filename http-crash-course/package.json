@@ -1,0 +1,19 @@
+{
+  "name": "http-crash-course",
+  "version": "1.0.0",
+  "description": "- HTTP is Stateless\r - HTTPS - SSL/TLS data sent is enscypted\r - HTTP Methods - GET, POST, PUT, DELETE\r - HTTP Request - Header and Body\r - HTTP Headers\r   - Request - Cookies, Accept-xxx, Content-Type, Content-Length, Authorization, User-Agent, Referrer\r   - Response - Server, Set Cookie, Content Type, Content-Length, Date\r   - General - URL, Method, Status Code, Remote Address, Rererrer Policy",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
